@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  scrollViewExample
+//  ScrollViewWithAutoLayout
 //
 //  Created by Akanksha Sharma on 23/05/17.
 //  Copyright © 2017 Nexgear. All rights reserved.
